@@ -1,0 +1,8 @@
+
+
+**Database Name: banksysphp**
+
+**Developed by Shruti Sharma**
+
+**Recommended PHP Version 5.6.3, 7.4.12**
+
