@@ -42,43 +42,7 @@
   <p> © 2021 - Spark Bank</p>
   <p>Developed by Chetan Vivek</p>
 </div>
-<!-- partial -->
-      <!-- <div class="container-fluid"> -->
-      <!-- Introduction section -->
-            <!-- <div class="row intro py-1" style="background-color : lightblue ;">
-              
-              <div class="col-sm-12 col-md img text-center">
-                <img src="img/bank.jpg" class="img-fluid pt-2">
-              </div>
-            </div> -->
-              
-      <!-- Activity section -->
-            <!-- <div class="row activity text-center">
-                  <div class="col-md act">
-                    <img src="img/customer.jpg" class="img-fluid">
-                    <br>
-                    <a href="createuser.php"><button style="background-color : #2785C4;" style="border-radius:0%">Create a User</button></a>
-                  </div>
-                  <div class="col-md act">
-                    <img src="img/aboutus.jpg" class="img-fluid">
-                    <br>
-                    <a href="removeuser.php"><button style="background-color : #2785C4;" style="border-radius:0%">Delete Users</button></a>
-                  </div>
-                  <div class="col-md act">
-                    <img src="img/transfermoney.jpg" class="img-fluid">
-                    <br>
-                    <a href="transfermoney.php"><button style="background-color : #2785C4;">Make a Transaction</button></a>
-                  </div>
-                  <div class="col-md act">
-                    <img src="img/transhistory.png" class="img-fluid">
-                    <br>
-                    <a href="transactionhistory.php"><button style="background-color : #2785C4;">Transaction History</button></a>
-                  </div>
-                  
-            </div>
-      </div> -->
 
-      <!-- Footer -->
 
 
 
